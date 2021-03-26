@@ -1,0 +1,85 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-image: url(th13.jpg);
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+.Sign-Up-Form{
+    width: 300px;
+   padding: 20px;
+   background: rgb(67, 60, 133);
+   margin: 8% auto 0;
+   text-align: center;
+   box-shadow:0 0 3px 0 rgba(0,0,0,0.3);
+    }
+    .Sign-Up-Form h1{
+        color: #1c8adb;
+        margin-bottom: 30px;
+    }
+    .input-box{
+        border-radius: 20px;
+        padding: 10px;
+        margin: 10px 0;
+        width: 100%;
+        border: 1px solid #999;
+        outline: none;
+        text-align: center;
+        border: 2px solid black;
+        font-weight: bold;
+    }
+    .input-box:hover{
+        width: 200px;   
+    }
+    .input-box:focus{
+        background-color: tomato;
+    }
+    button{
+        color: rgb(0, 0, 0);
+        width: 100%;
+        padding: 10px;
+        border-radius: 20px;
+        font-size: 15px;
+        margin: 10px 0;
+        border: none;
+        outline: none;
+        cursor: pointer;
+    }
+    button:active{
+        color: rgb(0, 0, 0);
+    }
+    button:hover{
+        background-color: #fff;
+        width: 200px;
+    }
+    .signup-btn{
+        background-color: tomato;
+    }
+    .twitter-btn{
+        background-color: tomato;
+    }
+    a{
+        text-decoration: none;
+        color: tomato;
+    }
+    hr{
+        margin-top: 20px;
+        width: 80%;
+    }
+    .or{
+        background: #fff;
+        width: 30px;
+        margin: -19px auto 10px;
+    }
+    img{
+        width: 90px;
+        margin-top: -80px;
+        background: none;
+    }
+    .or{
+        color: black;
+        font-weight: bold;
+    }
+   
